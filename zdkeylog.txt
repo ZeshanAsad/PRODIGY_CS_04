@@ -1,0 +1,1 @@
+ Key.shift Hello  Key.shift There a Key.backspace how are you this is the testing of my keylogger Key.enter 
